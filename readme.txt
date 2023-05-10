@@ -1,6 +1,6 @@
 1.am folosit un decorator pattern care permite adaugare la obiecte fara sa modificam clasa 
 
-2.Adapter pattern foloseste clasa ao=poi face wrap la alta clasa
+2.Adapter pattern foloseste clasa apoi face wrap la alta clasa
 
 3.Facade pattern este pentru a ascunde complexitatea sistemului
 
